@@ -1,6 +1,6 @@
 # _Hola 👋 soy **Jimmy Collazos**_ 👨‍💻
 
-_[English version](./README.en.md)_
+_[English version](https://github.com/jimmy-collazos/jimmy-collazos/blob/master/README.en.md)_
 
 Me encanta programar; por lo que me siento un afortunado de poder trabajar en lo que me gusta.
 
