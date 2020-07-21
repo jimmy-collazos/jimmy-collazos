@@ -10,7 +10,7 @@ Actualmente trabajo en [BBVA Next](https://www.bbvanexttechnologies.com/) desarr
 
 ## Áreas de interes
 
-* HTML Standards definitions (_Web Components, Web Workers, ...)
+* HTML Standards definitions (_Web Components, Web Workers, ..._)
 * Progressive Web Applications
 * Web Assembly
 * State managmets of web applications (_Redux, RxJs, ..._)
