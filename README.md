@@ -1,7 +1,19 @@
-### Hola! 👋
+# _Hola 👋 soy **Jimmy Collazos**_ 👨‍💻
 
-Mi nombre es Jimmy Collazos y me encanta programar; por lo que me siento un afortunado de poder trabajar en lo que me gusta.
+_[English version](./README.en.md)_
 
-Llevo programando desde el 2004 y he tocado un poco de todo; he hecho aplicaciones para web, server, cli y movil.
+Me encanta programar; por lo que me siento un afortunado de poder trabajar en lo que me gusta.
 
-Actualmente trabajo en [BBVA Next](https://www.bbvanexttechnologies.com/) como __Software Crafter__ en un proyecto interno de BBVA (framework y cli) que se utiliza en todo el mundo para crear aplicaciones web (navegador y movil).
+Llevo programando desde el 2004 y he tocado un poco de todo; aplicaciones para web, server, cli y movil.
+
+Actualmente trabajo en [BBVA Next](https://www.bbvanexttechnologies.com/) desarrollando y manteniendo un framework basado en [Web Components](https://www.w3.org/TR/components-intro/) y [RxJs](https://rxjs-dev.firebaseapp.com/) que ayuda a crear aplicaiones híbridas.
+
+## Áreas de interes
+
+* HTML Standards definitions (_Web Components, Web Workers, ...)
+* Progressive Web Applications
+* Web Assembly
+* State managmets of web applications (_Redux, RxJs, ..._)
+* Smart Contracts
+* Rust, C, Python, ...
+* ...
